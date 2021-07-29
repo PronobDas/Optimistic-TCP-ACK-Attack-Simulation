@@ -1,5 +1,7 @@
 # Optimistic-TCP-ACK-Attack-Simulation
 
+## What is Optimistic TCP ACK Attack ?
+
 An optimistic TCP ACK attack is a denial-of-service attack that makes
 the congestion-control mechanism of TCP work against itself.
 The Transmission Control Protocol (TCP) means to provide reliable
@@ -26,3 +28,5 @@ sending rate until it runs out of bandwidth and cannot effectively serve
 anyone else. If performed simultaneously against many servers, this
 attack can also create Internet Wide congestion by overwhelming the
 bandwidth resources of routers between the victims and attacker.
+
+Here the whole attack was simulated.
